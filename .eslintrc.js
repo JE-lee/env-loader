@@ -3,6 +3,7 @@ module.exports = {
     browser: true,
     commonjs: true,
     es6: true,
+    mocha: true,
   },
   extends: ['standard', 'eslint-config-prettier'],
   globals: {
